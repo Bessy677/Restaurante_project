@@ -1,0 +1,17 @@
+{
+  "Comidas": [
+    {"nombre": "Carne Azada", "precio": 160},
+    {"nombre": "pollo con tajadas", "precio": 120},
+    {"nombre": "Baleada especial", "precio": 20}
+  ],
+  "Bebidas": [
+    {"nombre": "Coca Cola", "precio": 28},
+    {"nombre": "Gradizada", "precio": 55},
+    {"nombre": "leche con chocolate", "precio":45}
+  ],
+  "Postres": [
+    {"nombre": "Helado de dos sabores", "precio": 75},
+    {"nombre": "pan de banano", "precio": 30},
+    {"nombre": "Gelatina de Fresa", "precio": 50}
+  ]
+}
